@@ -31,3 +31,4 @@ KIWI.COM: https://www.kiwi.com/
 
 
 WIREFRAMES https://wireframe.cc/pro/pp/11bdd6f1a475724
+- Carrito de compras: https://wireframe.cc/pro/pp/c38fad34d478973
